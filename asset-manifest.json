@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anjela07.github.io/sushi-react/static/css/main.08b9d981.css",
+    "main.js": "/anjela07.github.io/sushi-react/static/js/main.a88a6f11.js",
+    "static/media/avakadoroll.jpg": "/anjela07.github.io/sushi-react/static/media/avakadoroll.0dd7746498d07d1b1629.jpg",
+    "static/media/1roll.webp": "/anjela07.github.io/sushi-react/static/media/1roll.3912d656ebaf671e81e4.webp",
+    "static/media/2roll.webp": "/anjela07.github.io/sushi-react/static/media/2roll.d42da15a2d812bd3b625.webp",
+    "index.html": "/anjela07.github.io/sushi-react/index.html",
+    "main.08b9d981.css.map": "/anjela07.github.io/sushi-react/static/css/main.08b9d981.css.map",
+    "main.a88a6f11.js.map": "/anjela07.github.io/sushi-react/static/js/main.a88a6f11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b9d981.css",
+    "static/js/main.a88a6f11.js"
+  ]
+}
